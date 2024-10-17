@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @sean-mackenzie
-- 👀 I’m interested in ... computer vision.
-- 🌱 I’m currently learning ... deep learning.
-- 💞️ I’m looking to collaborate on ... computer vision and particle tracking projects.
-- 📫 How to reach me ...
+- 👀 I’m interested in ... micro-etc.
+- 🌱 I’m currently learning ... how to write goode code.
+- 💞️ I’m looking to collaborate on ... applications of machine learning in semiconductor manufacturing.
+- 📫 How to reach me ... mackenzie@engineering.ucsb.edu
 
 <!---
 sean-mackenzie/sean-mackenzie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
